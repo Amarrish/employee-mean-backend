@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Akhil",
+      "email": "Akhil@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "name": "Akhil",
+      "email": "Akhil@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Almas",
+      "email": "Almas@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "AmalPremkumar",
+      "email": "Amalpremkumar@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "Amarrish",
+      "email": "Amarrish@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "6",
+      "name": "Anathakrishnan",
+      "email": "Anathakrishnan@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "name": "Bineesha",
+      "email": "Bineesha@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "8",
+      "name": "Hridhy",
+      "email": "Hridhy@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "9",
+      "name": "KavyaKrishnan",
+      "email": "KavyaKrishnan@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "name": "Shiraz",
+      "email": "Shiraz@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "11",
+      "name": "Nazil",
+      "email": "Nazil@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "12",
+      "name": "Aparna",
+      "email": "Aparna@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "15",
+      "name": "Mubashir",
+      "email": "Mubashir@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "14",
+      "name": "Sahad",
+      "email": "Sahad@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "13",
+      "name": "Rizwan",
+      "email": "Rizwan@gmail.com",
+      "active": "1"
+    }
+  ]
+}
